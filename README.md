@@ -1,6 +1,6 @@
-* # Build ChatGPT App in Flutter using OpenAI API<br><br>
+# Build ChatGPT App in Flutter using OpenAI API<br><br>
 
-* # Reach/Follow me on 
+# Reach/Follow me on 
 [![Youtube](https://img.shields.io/static/v1?label=Coding%20with%20Hadi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 [![Linkedin: HadiKachmar](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
